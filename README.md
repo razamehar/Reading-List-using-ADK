@@ -1,5 +1,5 @@
 # Reading List using ADK
-This project manages your reading list using Google's Agent Development Kit (ADK.  
+This project manages your reading list using Google's Agent Development Kit (ADK).  
 
 ## Features
 - Add books to your reading list  
