@@ -46,6 +46,8 @@ python main.py
 - `currently reading` – Book is being read  
 - `read` – Book has been finished
 
+## Inspiration
+This project was inspired by a course by [Mayank Aggarwal](https://github.com/mayank953). The course provided valuable insights into building a reading list application, which served as the foundation for this project.
 
 ## License
 This project is licensed under the Raza Mehar License. See the LICENSE.md file for details.
